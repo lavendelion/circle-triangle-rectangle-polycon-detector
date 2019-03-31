@@ -1,7 +1,7 @@
 # circle-triangle-rectangle-polycon-detector
-simple code for detecting circle/triangle/rectangle/polycon in an image
-To run the code, please put the file "input_image.png" in the same folder with "shape_detector.py".
-Or just open "shape_detector.py" and edit the global variable "IMAGE_PATH = # your path".
+simple code for detecting circle/triangle/rectangle/polycon in an image\n
+To run the code, please put the file "input_image.png" in the same folder with "shape_detector.py".\n
+Or just open "shape_detector.py" and edit the global variable "IMAGE_PATH = # your path".\n
 
 Output specification:
 1._1_binary_image.png: the binary image of the inputimage;
